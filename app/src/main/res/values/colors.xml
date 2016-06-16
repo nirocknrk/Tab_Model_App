@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTabText">#ffffff</color>
+    <color name="colorTabTextSelected">#FF4081</color>
+    <color name="colorTab5">#ddd72c</color>
+    <color name="colorTab5Pressed">#757219</color>
+    <color name="colorTab4">#d61ee7</color>
+    <color name="colorTab4Pressed">#7f1189</color>
+    <color name="colorTab3">#1ee732</color>
+    <color name="colorTab3Pressed">#10781a</color>
+    <color name="colorTab2">#e7971e</color>
+    <color name="colorTab2Pressed">#ad6a07</color>
+    <color name="colorTab1">#d60085</color>
+    <color name="colorTab1Pressed">#840052</color>
+</resources>
